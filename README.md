@@ -4,7 +4,10 @@ A React Native and Expo sign-in screen built for the ChaiCode React Native assig
 
 ## Screenshot
 
-Add the sign-in app screenshot here.
+<img width="722" height="1600" alt="WhatsApp Image 2026-05-10 at 6 41 39 PM" src="https://github.com/user-attachments/assets/b2ee81eb-f46e-400b-9419-f8979b1ce6cb" />
+
+<img width="722" height="1600" alt="WhatsApp Image 2026-05-10 at 6 41 40 PM" src="https://github.com/user-attachments/assets/18f70f95-7a0e-4b33-807b-fee5c3975e68" />
+
 
 ## Features
 
